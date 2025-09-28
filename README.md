@@ -38,4 +38,6 @@ Language: SQL
 
 screenshot:
 
+https://github.com/pavik15-ops/SQL-for-Data-Analysis/blob/main/Screenshots.pdf
+
 
